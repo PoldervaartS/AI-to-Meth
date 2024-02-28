@@ -43,9 +43,15 @@ function handleText(textNode)
 	v = v.replace(/\bArtificial intelligence\b/g, "Methamphetamine");
 	v = v.replace(/\bartificial intelligence\b/g, "methamphetamine");
 	v = v.replace(/\bartificial Intelligence\b/g, "methamphEtamine");
+	v = v.replace(/\bArtificial Intelligences\b/g, "Methamphetamines");
+	v = v.replace(/\bArtificial intelligences\b/g, "Methamphetamines");
+	v = v.replace(/\bartificial intelligences\b/g, "methamphetamines");
+
 	v = v.replace(/\bAI\b/g, "Meth");
+	v = v.replace(/\bAIs\b/g, "Meths");
 	v = v.replace(/\bai\b/g, "meth");
 	v = v.replace(/\baI\b/g, "mEth");
+	v = v.replace(/\bais\b/g, "meths");
 	
 	textNode.nodeValue = v;
 }
