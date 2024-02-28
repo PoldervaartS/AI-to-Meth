@@ -3,18 +3,24 @@ AI-to-meth
 
 ![](logo.png)
 
-Chrome extension that replaces occurrences of 'artificial intelligence' with 'methamphetamine'
+![AI Wikipedia page where all "AI" are "methamphetamine"](example_change.PNG)
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+Chrome extension that replaces occurrences of 'artificial intelligence' with 'methamphetamine'
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag AItoMeth.crx into the page that appears.
+Chrome Version
+------------
+
+Download [AItoMeth.zip](https://github.com/PoldervaartS/AI-to-Meth/blob/master/AItoMeth.zip?raw=true). 
+Unzip files.
+In Chrome, choose Window > Extensions.  Select folder you unzipped into on the page that appears.
 
 Firefox Version
 ---------------
 
-Download [AItoMeth.zip]()
+Download [AItoMeth.zip](https://github.com/PoldervaartS/AI-to-Meth/blob/master/AItoMeth.zip?raw=true)
 
-Firefox Pending
+
+Firefox Permenant Addition Pending

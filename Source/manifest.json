@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "AI To Meth",
   "version": "1.0",
   "description": "Replaces the text 'artificial intelligence' with 'methamphetamine'.",
@@ -9,6 +9,5 @@
       "js": ["content_script.js"],
       "run_at": "document_end"
     }
-  ],
-  "permissions": ["webRequest", "activeTab"]
+  ]
 }
