@@ -1,15 +1,14 @@
 {
-	"manifest_version": 2,
-	"name": "Cloud To Butt",
-	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
-	"content_scripts": 
-	[
-		{
-			"matches": ["*://*/*"],
-			"js": ["content_script.js"],
-			"run_at": "document_end"
-		}
-	]
+  "manifest_version": 2,
+  "name": "AI To Meth",
+  "version": "1.0",
+  "description": "Replaces the text 'artificial intelligence' with 'methamphetamine'.",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": ["webRequest", "activeTab"]
 }
-
