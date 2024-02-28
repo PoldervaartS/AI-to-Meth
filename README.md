@@ -1,11 +1,11 @@
 AI-to-meth
 =============
 
-![](logo.png)
+![](assets/logo.png)
 
-![AI Wikipedia page where all "AI" are "methamphetamine"](example_change.PNG)
+![AI Wikipedia page where all "AI" are "methamphetamine"](assets/example_change.PNG)
 
-Chrome extension that replaces occurrences of 'artificial intelligence' with 'methamphetamine'
+Browser extension that replaces occurrences of 'artificial intelligence' with 'methamphetamine'
 
 Installation
 ------------
@@ -20,7 +20,8 @@ In Chrome, choose Window > Extensions.  Select folder you unzipped into on the p
 Firefox Version
 ---------------
 
-Download [AItoMeth.zip](https://github.com/PoldervaartS/AI-to-Meth/blob/master/AItoMeth.zip?raw=true)
+Download [eb988b309b45464088bb-1.0.xpi](https://github.com/PoldervaartS/AI-to-Meth/blob/master/eb988b309b45464088bb-1.0.xpi?raw=true)
 
+Manage Extensions > settings cog > install add-on from file > select the `.xpi` file
 
-Firefox Permenant Addition Pending
+To run on all websites go to 3 dots on 'AI to Meth' > Manage > Permissions > Toggle on "Access your data for all websites"
