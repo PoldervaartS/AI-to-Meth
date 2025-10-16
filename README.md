@@ -20,8 +20,6 @@ In Chrome, choose Window > Extensions.  Select folder you unzipped into on the p
 Firefox Version
 ---------------
 
-Download [eb988b309b45464088bb-1.0.xpi](https://github.com/PoldervaartS/AI-to-Meth/blob/master/eb988b309b45464088bb-1.0.xpi?raw=true)
-
-Manage Extensions > settings cog > install add-on from file > select the `.xpi` file
+Install Here [On Firefox Add-on store](https://addons.mozilla.org/en-US/firefox/addon/ai-to-meth/)
 
 To run on all websites go to 3 dots on 'AI to Meth' > Manage > Permissions > Toggle on "Access your data for all websites"
