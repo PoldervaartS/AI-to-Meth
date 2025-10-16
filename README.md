@@ -5,7 +5,7 @@ AI-to-meth
 
 ![AI Wikipedia page where all "AI" are "methamphetamine"](assets/example_change.PNG)
 
-Browser extension that replaces occurrences of 'artificial intelligence' with 'methamphetamine'
+Browser extension that replaces occurrences of 'artificial intelligence' with 'methamphetamine', notable models with "Magic Rock", and "NVIDIA" with "Walter White"
 
 Installation
 ------------

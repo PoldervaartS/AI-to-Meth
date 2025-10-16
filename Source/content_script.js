@@ -52,6 +52,10 @@ function handleText(textNode)
 	v = v.replace(/\bai\b/g, "meth");
 	v = v.replace(/\baI\b/g, "mEth");
 	v = v.replace(/\bais\b/g, "meths");
+
+	
+	v = v.replace(/Nvidia/ig, "Walter White")
+	v = v.replace(/(chatgpt|gemini|grok|copilot|gpt)/ig, "Magic Rock")
 	
 	textNode.nodeValue = v;
 }
